@@ -1,0 +1,14 @@
+# macOS junk files
+.DS_Store
+__MACOSX/
+*.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Database
+*.db
